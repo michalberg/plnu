@@ -9077,6 +9077,8 @@ background:rgba(0,0,0,0.7);}
 
 #post-1336 .hentry {padding-top: 0}
 
+#post-1336 .entry-content {padding:0;}
+
 #post-1336 #box1, #post-1336 #box2, #post-1336 #box3 {float:left;
 width:33%;}
 
@@ -9084,10 +9086,11 @@ width:33%;}
 #post-1336 {margin-top: -30px;}
 
 #post-1336 #box1 h3, #post-1336 #box2 h3, #post-1336 #box3 h3 {font-size: 2.0rem;
-margin-bottom: 1.9rem;}  
+margin-bottom: 30px}  
 }
 
 @media screen and (max-width: 48.75em) {
-	#post-1336 #box1, #post-1336 #box2, #post-1336 #box3 {width:100%;}
+	#post-1336 #box1, #post-1336 #box2, #post-1336 #box3 {
+		width:100%;}
 
 }
