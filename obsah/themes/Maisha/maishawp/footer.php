@@ -64,6 +64,6 @@
 	</footer><!-- .site-footer -->
 
 <?php wp_footer(); ?>
-
+xxxx
 </body>
 </html>
