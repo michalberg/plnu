@@ -2941,7 +2941,6 @@ a.more-link {
 }
 
 .content-caption {
-	background: rgba(0,0,0,0.6);
 	color: #fff;
 	max-width: 35%;
 	left: 10%;
@@ -9027,7 +9026,7 @@ text-align: center;
 .vpravo {left:55%;
 background:rgba(0,0,0,0.7);}
 
-.vlevo {left:55%;
+.vlevo {
 background:rgba(0,0,0,0.7);}
 
 
