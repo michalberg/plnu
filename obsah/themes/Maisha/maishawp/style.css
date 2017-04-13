@@ -8810,7 +8810,7 @@ p > video {
 		position: inherit;
 		max-width: 100%;
 	}
-	
+
 	.vpravo {left:auto;}
 
 	.block-two-content {
@@ -9032,8 +9032,11 @@ text-align: center;
 		text-decoration: underline;
 }
 
+@media screen and (min-width: 80em) {
+		.vpravo {left:55%;}
+}
 
-.vpravo {left:55%;
+.vpravo {
 background:rgba(0,0,0,0.7);}
 
 .vlevo {
