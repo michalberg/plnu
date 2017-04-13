@@ -18,7 +18,7 @@
 							<?php get_sidebar( 'footer' ); ?>
 						<?php endif; ?>
 						<div class="copyright">
-						<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />Tento web podléhá licenci <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons - Uveďte původ 4.0 Mezinárodní License</a> s výjimkou fotografií. Pro souhlas s jejich použitím nás kontaktujete. 
+						<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />Tento web podléhá licenci <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons - Uveďte původ 4.0 Mezinárodní License</a> s výjimkou fotografií. Pro souhlas s jejich použitím nás prosím kontaktujete. 
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -64,6 +64,6 @@
 	</footer><!-- .site-footer -->
 
 <?php wp_footer(); ?>
-xxxx
+
 </body>
 </html>
