@@ -28,30 +28,7 @@
 						) );
 					?>
 					</div>
-					<div class="cd-panel from-right">
-					<header class="cd-panel-header">
-						<a href="#0" class="cd-panel-close">Close</a>
-					</header>
-
-					<div class="cd-panel-container">
-					<div class="cd-panel-content">
-					<?php
-							$child_pages = new WP_Query( array(
-								'post_type'      => 'page',
-								'orderby'        => 'menu_order',
-								'order'          => 'ASC',
-								'post_parent'    => $post->ID,
-								'posts_per_page' => 1,
-								'no_found_rows'  => true,
-							) );
-							while ( $child_pages->have_posts() ) : $child_pages->the_post();
-								 get_template_part( 'content', 'page' );
-							endwhile;
-							wp_reset_postdata();
-					?>
-					</div> <!-- cd-panel-content -->
-					</div> <!-- cd-panel-container -->
-					</div> <!-- cd-panel -->
+					<!-- cd panel cut ->
 				</div><!-- .entry-content -->
 			</div><!-- .content-caption -->
 			<?php endif; ?>
