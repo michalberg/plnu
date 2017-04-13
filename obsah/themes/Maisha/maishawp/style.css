@@ -2943,7 +2943,7 @@ a.more-link {
 .content-caption {
 	background: rgba(0,0,0,0.6);
 	color: #fff;
-	max-width: 30%;
+	max-width: 35%;
 	left: 10%;
 	right: 0;
 	top: 30%;
@@ -8506,7 +8506,7 @@ p > video {
 		 min-height: 700px;
 	}
 	.content-caption {
-		 max-width: 40%;
+		 max-width: 35%;
 
 	}
 	.page-template-front-page-one .soliloquy-theme-karisma .soliloquy-caption,
@@ -9024,5 +9024,10 @@ text-align: center;
 }
 
 
+.vpravo {left:55%;
+background:rgba(0,0,0,0.7);}
+
+.vlevo {left:55%;
+background:rgba(0,0,0,0.7);}
 
 
