@@ -13,24 +13,20 @@
 			<div class="cd-fixed-bg cd-bg-1" style="background-image:url(<?php echo esc_url( $image_url[0] ); ?>);"></div>
 			<?php if($post->post_content=="") : ?>
 			<?php else : ?>
+			<?php the_content(); ?>
+
 			<div class="content-caption">
 				<div class="entry-content">
 					<div class="cd-main-content">
-					<?php the_content(); ?>
-					<?php
-						wp_link_pages( array(
-							'before'      => '<div class="page-links"><span class="page-links-title">' . esc_html__( 'Pages:', 'maisha' ) . '</span>',
-							'after'       => '</div>',
-							'link_before' => '<span>',
-							'link_after'  => '</span>',
-							'pagelink'    => '<span class="screen-reader-text">' . esc_html__( 'Page', 'maisha' ) . ' </span>%',
-							'separator'   => '<span class="screen-reader-text">, </span>',
-						) );
-					?>
+			
+					
+
+
 					</div>
 					<!-- cd panel cut ->
 				</div><!-- .entry-content -->
 			</div><!-- .content-caption -->
+
 			<?php endif; ?>
 		</article><!-- #post-## -->
 	</div><!-- .homepage -->
