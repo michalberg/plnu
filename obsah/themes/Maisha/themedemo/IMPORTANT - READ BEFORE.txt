@@ -1,0 +1,20 @@
+
+To import demo content from the live preview, you first need to install the plugins we used with the theme demo:
+
+1. BuddyPress: https://buddypress.org/">https://buddypress.org/ - run your own social network
+2. bbPress: https://bbpress.org/ - forums made the WordPress way
+3. Contact Form 7: https://wordpress.org/plugins/contact-form-7/ - contact form
+4. Give: https://wordpress.org/plugins/give/ - empower your cause: start accepting donations on WordPress with Give.
+5. The Events Calendar: https://wordpress.org/plugins/the-events-calendar/ - plugin that lets you easily share your events.
+6. Soliloquy Slider plugin can be found inside the <strong>plugins</strong> folder
+7. WooCommerce: http://wordpress.org/plugins/woocommerce/ - create your own shop
+
+After you installed and activated plugins above you can start with importing the demo content.
+
+1. Content Demo: maishademo.wordpress.2015-05-28.xml - to import demo content navigate to the Tools - Import and import this file
+
+2. Widget Demo: www.anariel.com-maishademo-widgets.wie - to import widget content please install: https://wordpress.org/plugins/widget-importer-exporter/ activate the plugin and navigate to the Tools - Widget Settings Import and import this file
+
+3. Customizer Demo: maishawp-export.dat - to import Customizer settings please install: https://wordpress.org/plugins/customizer-export-import/ and activate it. Navigate to the Customizer - Export/Import and import this file.
+
+4. BuddyPress Demo: if you want to import dummy BuddyPress demo you can do this by installing this plugin: https://wordpress.org/plugins/bp-default-data/ and by navigating to the Tools - BP Default Data - import selected data

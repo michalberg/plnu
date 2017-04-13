@@ -1,0 +1,128 @@
+<wpml-config>
+	<admin-texts>
+		<key name="wpmchimpa_options">
+			<key name="cforms">
+				<key name="*">
+					<key name="fields">
+						<key name="*">
+							<key name="label"/>
+						</key>
+					</key>
+				</key>
+			</key>
+			<key name="errorrf"/>
+			<key name="errorfe"/>
+			<key name="erroras"/>
+			<key name="errorue"/>
+			<key name="suc_msg"/>
+			<key name="usyn_compt"/>
+			<key name="usyn_regpt"/>
+			<key name="theme">
+				<key name="l0">
+					<key name="lite_heading"/>
+					<key name="lite_msg"/>
+					<key name="lite_button"/>
+					<key name="lite_tag"/>
+				</key>
+				<key name="l1">
+					<key name="lite_heading"/>
+					<key name="lite_msg"/>
+					<key name="lite_button"/>
+					<key name="lite_tag"/>
+					<key name="lite_soc_head"/>
+				</key>
+				<key name="l8">
+					<key name="lite_heading"/>
+					<key name="lite_msg"/>
+					<key name="lite_button"/>
+					<key name="lite_tag"/>
+					<key name="lite_soc_head"/>
+				</key>
+				<key name="l9">
+					<key name="lite_heading"/>
+					<key name="lite_msg"/>
+					<key name="lite_button"/>
+					<key name="lite_tag"/>
+				</key>
+				<key name="s0">
+					<key name="slider_heading"/>
+					<key name="slider_msg"/>
+					<key name="slider_button"/>
+					<key name="slider_tag"/>
+				</key>
+				<key name="s1">
+					<key name="slider_heading"/>
+					<key name="slider_msg"/>
+					<key name="slider_button"/>
+					<key name="slider_tag"/>
+					<key name="slider_soc_head"/>
+				</key>
+				<key name="s8">
+					<key name="slider_heading"/>
+					<key name="slider_msg"/>
+					<key name="slider_button"/>
+					<key name="slider_tag"/>
+					<key name="slider_soc_head"/>
+				</key>
+				<key name="s9">
+					<key name="slider_heading"/>
+					<key name="slider_msg"/>
+					<key name="slider_button"/>
+					<key name="slider_tag"/>
+				</key>
+				<key name="w0">
+					<key name="widget_heading"/>
+					<key name="widget_msg"/>
+					<key name="widget_button"/>
+					<key name="widget_tag"/>
+				</key>
+				<key name="w1">
+					<key name="widget_heading"/>
+					<key name="widget_msg"/>
+					<key name="widget_button"/>
+					<key name="widget_tag"/>
+					<key name="widget_soc_head"/>
+				</key>
+				<key name="w8">
+					<key name="widget_heading"/>
+					<key name="widget_msg"/>
+					<key name="widget_button"/>
+					<key name="widget_tag"/>
+					<key name="widget_soc_head"/>
+				</key>
+				<key name="w9">
+					<key name="widget_heading"/>
+					<key name="widget_msg"/>
+					<key name="widget_button"/>
+					<key name="widget_tag"/>
+				</key>
+				<key name="a0">
+					<key name="addon_heading"/>
+					<key name="addon_msg"/>
+					<key name="addon_button"/>
+					<key name="addon_tag"/>
+				</key>
+				<key name="a1">
+					<key name="addon_heading"/>
+					<key name="addon_msg"/>
+					<key name="addon_button"/>
+					<key name="addon_tag"/>
+					<key name="addon_soc_head"/>
+				</key>
+				<key name="a8">
+					<key name="addon_heading"/>
+					<key name="addon_msg"/>
+					<key name="addon_button"/>
+					<key name="addon_tag"/>
+					<key name="addon_soc_head"/>
+				</key>
+				<key name="a9">
+					<key name="addon_heading"/>
+					<key name="addon_msg"/>
+					<key name="addon_button"/>
+					<key name="addon_tag"/>
+				</key>
+			</key>
+		</key>
+	</admin-texts>
+</wpml-config>
