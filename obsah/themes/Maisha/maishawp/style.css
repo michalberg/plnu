@@ -9006,3 +9006,23 @@ text-align: center;
 }
 
 
+
+/* Darujte button v menu */
+
+#menu-item-1382 a {background: #e65f41;
+    padding: 10px 25px;
+    border-radius: 5px;
+    font-weight: 800;
+    font-size: 20px;
+    color: #fff;
+    font-family: 'Raleway', arial, sans-serif;
+    text-transform: none;
+    letter-spacing: normal;}
+
+#menu-item-1382 a:hover {background: #666;
+		text-decoration: underline;
+}
+
+
+
+
