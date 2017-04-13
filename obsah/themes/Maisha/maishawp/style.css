@@ -8508,6 +8508,9 @@ p > video {
 		 max-width: 35%;
 
 	}
+
+	.vpravo {left:55%;}
+	
 	.page-template-front-page-one .soliloquy-theme-karisma .soliloquy-caption,
     .page-template-front-page-one .soliloquy-theme-metro .soliloquy-caption {
 		width: 50%!important;
@@ -8540,6 +8543,9 @@ p > video {
 		 left:5%;
 
 	}
+
+	.vpravo {left:55%;}
+
 	.page-template-front-page-one .soliloquy-theme-karisma .soliloquy-caption,
     .page-template-front-page-one .soliloquy-theme-metro .soliloquy-caption {
 		width: 100%!important;
@@ -8591,6 +8597,9 @@ p > video {
 		 left:5%;
 
 	}
+
+	.vpravo {left:55%;}
+
 	.content-caption .entry-content h1 {
 		font-size: 29px;
 		font-size: 2.9rem;
@@ -9059,3 +9068,9 @@ background:rgba(0,0,0,0.7);}
 }
 
 
+
+#post-1336 {margin-top: -40px;}
+
+#post-1336 h2 {display:none;}
+
+#post-1336 .hentry {padding-top: 0}
