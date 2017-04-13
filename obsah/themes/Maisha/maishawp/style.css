@@ -9030,7 +9030,7 @@ background:rgba(0,0,0,0.7);}
 background:rgba(0,0,0,0.7);}
 
 
-.vlevo button, .vpravo button {border-bottom: none;
+.vlevo a.button, .vpravo a.button {border-bottom: none;
     border-radius: 5px;
     font-weight: 800;
     font-size: 20px;
@@ -9039,5 +9039,9 @@ background:rgba(0,0,0,0.7);}
     text-transform: none;
     letter-spacing: normal;
     text-decoration: none;}
+
+.vlevo a.button:hover, .vpravo a.button:hover {background: #666;
+		text-decoration: underline;
+}
 
 
