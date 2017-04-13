@@ -9034,6 +9034,7 @@ text-align: center;
 
 @media screen and (min-width: 80em) {
 		.vpravo {left:55%;}
+		.homepage .content-caption {top:20%;}
 }
 
 .vpravo {
