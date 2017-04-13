@@ -8536,7 +8536,8 @@ p > video {
 		 min-height: 600px;
 	}
 	.content-caption {
-		 max-width: 60%;
+		 max-width: 42%;
+		 left:5%;
 
 	}
 	.page-template-front-page-one .soliloquy-theme-karisma .soliloquy-caption,
@@ -8581,8 +8582,14 @@ p > video {
 	.cd-fixed-bg {
 		 min-height: 400px;
 	}
+	.homepage .content-caption {
+		top:10%
+	};
+	
 	.content-caption {
-		 max-width: 80%;
+		 max-width: 42%;
+		 left:5%;
+
 	}
 	.content-caption .entry-content h1 {
 		font-size: 29px;
@@ -8803,6 +8810,9 @@ p > video {
 		position: inherit;
 		max-width: 100%;
 	}
+	
+	.vpravo {left:auto;}
+
 	.block-two-content {
 		padding: 45px 30px;
 	}
