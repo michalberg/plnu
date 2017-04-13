@@ -9090,10 +9090,4 @@ margin-bottom: 1.9rem;}
 @media screen and (max-width: 48.75em) {
 	#post-1336 #box1, #post-1336 #box2, #post-1336 #box3 {width:100%;}
 
-	.content-caption {
-    background: none;
-    left: auto;
-    position: inherit;
-    max-width: 100%;
-    margin-top: -60px;}
 }
